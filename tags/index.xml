@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Welcome to nowhere</title>
+    <link>https://miniridley.dev/tags/</link>
+    <description>Recent content in Tags on Welcome to nowhere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://miniridley.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>depression</title>
+      <link>https://miniridley.dev/tags/depression/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desktop</title>
+      <link>https://miniridley.dev/tags/desktop/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happiness</title>
+      <link>https://miniridley.dev/tags/happiness/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>worklife</title>
+      <link>https://miniridley.dev/tags/worklife/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/worklife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>childcare</title>
+      <link>https://miniridley.dev/tags/childcare/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/childcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>montessori</title>
+      <link>https://miniridley.dev/tags/montessori/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/montessori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer science</title>
+      <link>https://miniridley.dev/tags/computer-science/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://miniridley.dev/tags/education/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://miniridley.dev/tags/open-source/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>participation</title>
+      <link>https://miniridley.dev/tags/participation/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/tags/participation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

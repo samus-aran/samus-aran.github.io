@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Welcome to nowhere</title>
+    <link>https://miniridley.dev/categories/open-source/</link>
+    <description>Recent content in open source on Welcome to nowhere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://miniridley.dev/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teach more to our students than just tech through OS communities</title>
+      <link>https://miniridley.dev/blog/teach-more-to-our-students-than-tech-through-oss-communities/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miniridley.dev/blog/teach-more-to-our-students-than-tech-through-oss-communities/</guid>
+      <description>Throughout our educational journey we have always been taught that generally two heads are better than one. That teams working at their optimum could do the impossible and it was almost the impossible to achieve this equilibrium. We could go on for days talking about all the factors on how to improve the efficiency of a development team, utilising and identifying the skills of the engineers and their motivations or even how to make great project plans….</description>
+    </item>
+    
+  </channel>
+</rss>
